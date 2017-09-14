@@ -1,0 +1,1 @@
+without root in tercept android  system call 
